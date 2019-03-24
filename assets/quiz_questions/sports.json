@@ -1,0 +1,437 @@
+[
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Which of the following sports is not part of the triathlon?",
+    "correct_answer": "Horse-Riding",
+    "incorrect_answers": ["Cycling", "Swimming", "Running", "Horse-Riding"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "At which bridge does the annual Oxford and Cambridge boat race start?",
+    "correct_answer": "Putney",
+    "incorrect_answers": ["Hammersmith", "Vauxhall ", "Battersea", "Putney"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+    "correct_answer": "Nine",
+    "incorrect_answers": ["Ten", "Seven", "Eight", "Nine"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "What tool lends it's name to a last-stone advantage in an end in Curling?",
+    "correct_answer": "Hammer",
+    "incorrect_answers": ["Wrench", "Drill", "Screwdriver", "Hammer"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "In golf, what name is given to a hole score of two under par?",
+    "correct_answer": "Eagle",
+    "incorrect_answers": ["Birdie", "Bogey", "Albatross", "Eagle"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
+    "correct_answer": "Big Daddy",
+    "incorrect_answers": [
+      "Giant Haystacks",
+      "Kendo Nagasaki",
+      "Masambula",
+      "Big Daddy"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "What is the nickname of Northampton town's rugby union club?",
+    "correct_answer": "Saints",
+    "incorrect_answers": ["Harlequins", "Saracens", "Wasps", "Saints"]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "question": "Manchester United won the 2013-14 English Premier League.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True", "False"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "In what sport is a 'shuttlecock' used?",
+    "correct_answer": "Badminton",
+    "incorrect_answers": ["Table Tennis", "Rugby", "Cricket", "Badminton"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Which team won the 2015-16 English Premier League?",
+    "correct_answer": "Leicester City",
+    "incorrect_answers": [
+      "Liverpool",
+      "Cheslea",
+      "Manchester United",
+      "Leicester City"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "How many scoring zones are there on a conventional dart board?",
+    "correct_answer": "82",
+    "incorrect_answers": ["62", "42", "102", "82"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "In a game of snooker, what colour ball is worth 3 points?",
+    "correct_answer": "Green",
+    "incorrect_answers": ["Yellow", "Brown", "Blue", "Green"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "With which doubles partner did John McEnroe have most success?",
+    "correct_answer": "Peter Fleming",
+    "incorrect_answers": [
+      "Mark Woodforde",
+      "Michael Stich",
+      "Mary Carillo",
+      "Peter Fleming"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "question": "Soccer player Cristiano Ronaldo opened a museum dedicated to himself.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False", "True"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Which nation hosted the FIFA World Cup in 2006?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["United Kingdom", "Brazil", "South Africa", "Germany"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "The F1 season of 1994 is remembered for what tragic event?",
+    "correct_answer": "Death of Ayrton Senna (San Marino)",
+    "incorrect_answers": [
+      "The Showdown (Australia)",
+      "Verstappen on Fire (Germany)",
+      "Schumacher's Ban (Britain)",
+      "Death of Ayrton Senna (San Marino)"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "question": "Peyton Manning retired after winning Super Bowl XLIX.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True", "False"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "What is the highest belt you can get in Taekwondo?",
+    "correct_answer": "Black",
+    "incorrect_answers": ["White", "Red", "Green", "Black"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "The Rio 2016 Summer Olympics held it's closing ceremony on what date?",
+    "correct_answer": "August 21",
+    "incorrect_answers": ["August 23", "August 19", "August 17", "August 21"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Which country is hosting the 2018 FIFA World Cup?",
+    "correct_answer": "Russia",
+    "incorrect_answers": ["Germany", "United States", "Saudi Arabia", "Russia"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Which country is hosting the 2022 FIFA World Cup?",
+    "correct_answer": "Qatar",
+    "incorrect_answers": ["Uganda", "Vietnam", "Bolivia", "Qatar"]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "question": "Skateboarding will be included in the 2020 Summer Olympics in Tokyo.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False", "True"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+    "correct_answer": "Michael Schumacher",
+    "incorrect_answers": [
+      "Ayrton Senna",
+      "Fernando Alonso",
+      "Jim Clark",
+      "Michael Schumacher"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+    "correct_answer": "7 - 1",
+    "incorrect_answers": ["0 - 1", "3 - 4", "16 - 0", "7 - 1"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Which team was the 2015-2016 NBA Champions?",
+    "correct_answer": "Cleveland Cavaliers",
+    "incorrect_answers": [
+      "Golden State Warriors",
+      "Toronto Raptors",
+      "Oklahoma City Thunders",
+      "Cleveland Cavaliers"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Josh Mansour is part of what NRL team?",
+    "correct_answer": "Penrith Panthers",
+    "incorrect_answers": [
+      "Melbourne Storm",
+      "Sydney Roosters",
+      "North Queensland Cowboys",
+      "Penrith Panthers"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+    "correct_answer": "Porsche",
+    "incorrect_answers": ["Toyota", "Audi", "Ferrari", "Porsche"]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "question": "The Olympics tennis court is a giant green screen.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False", "True"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+    "correct_answer": "DING Ning (China)",
+    "incorrect_answers": [
+      "LI Xiaoxia (China)",
+      "Ai FUKUHARA (Japan)",
+      "Song KIM (North Korea)",
+      "DING Ning (China)"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "question": "Roger Federer is a famous soccer player.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True", "False"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Which team won 2014 FIFA World Cup in Brazil?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["Argentina", "Brazil", "Netherlands", "Germany"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "How many points did LeBron James score in his first NBA game?",
+    "correct_answer": "25",
+    "incorrect_answers": ["19", "69", "41", "25"]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "question": "Formula E is an auto racing series that uses hybrid electric race cars.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True", "False"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "In 2016, who won the Formula 1 World Constructor's Championship for the third time in a row?",
+    "correct_answer": "Mercedes-AMG Petronas",
+    "incorrect_answers": [
+      "Scuderia Ferrari",
+      "McLaren Honda",
+      "Red Bull Racing Renault",
+      "Mercedes-AMG Petronas"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Which city did the former NHL team 'The Nordiques' originiate from?",
+    "correct_answer": "Quebec City",
+    "incorrect_answers": ["Houston", "Montreal", "New York", "Quebec City"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "What team won the 2016 MLS Cup?",
+    "correct_answer": "Seattle Sounders",
+    "incorrect_answers": [
+      "Colorado Rapids",
+      "Toronto FC",
+      "Montreal Impact",
+      "Seattle Sounders"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "What is the oldest team in the NFL?",
+    "correct_answer": "Arizona Cardinals",
+    "incorrect_answers": [
+      "Chicago Bears",
+      "Green Bay Packers",
+      "New York Giants",
+      "Arizona Cardinals"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "What is the oldest team in Major League Baseball?",
+    "correct_answer": "Atlanta Braves",
+    "incorrect_answers": [
+      "Chicago Cubs",
+      "Cincinnati Reds",
+      "St. Louis Cardinals",
+      "Atlanta Braves"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "question": "In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True", "False"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "What year did the New Orleans Saints win the Super Bowl?",
+    "correct_answer": "2009",
+    "incorrect_answers": ["2008", "2010", "2011", "2009"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "This Canadian television sportscaster is known for his 'Hockey Night in Canada' role, a commentary show during hockey games.",
+    "correct_answer": "Don Cherry",
+    "incorrect_answers": [
+      "Don McKellar",
+      "Don Taylor ",
+      "Donald Sutherland",
+      "Don Cherry"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Which team has won the most Stanley Cups in the NHL?",
+    "correct_answer": "Montreal Canadians",
+    "incorrect_answers": [
+      "Chicago Blackhawks",
+      "Toronto Maple Leafs",
+      "Detroit Red Wings",
+      "Montreal Canadians"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Which portuguese island is soccer player Cristiano Ronaldo from?",
+    "correct_answer": "Madeira",
+    "incorrect_answers": ["Terceira", "Santa Maria", "Porto Santo", "Madeira"]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "question": "In Rugby League, performing a '40-20' is punished by a free kick for the opposing team.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True", "False"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Who won the 'Champions League' in 1999?",
+    "correct_answer": "Manchester United",
+    "incorrect_answers": [
+      "Barcelona",
+      "Bayern Munich",
+      "Liverpool",
+      "Manchester United"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "What year was hockey legend Wayne Gretzky born?",
+    "correct_answer": "1961",
+    "incorrect_answers": ["1965", "1959", "1963", "1961"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Which year was the third Super Bowl held?",
+    "correct_answer": "1969",
+    "incorrect_answers": ["1968", "1971", "1970", "1969"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+    "correct_answer": "Jose Fernandez",
+    "incorrect_answers": [
+      "Jacob deGrom",
+      "Shelby Miller",
+      "Matt Harvey",
+      "Jose Fernandez"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "Why was The Green Monster at Fenway Park was originally built?",
+    "correct_answer": "To prevent viewing games from outside the park.",
+    "incorrect_answers": [
+      "To make getting home runs harder.",
+      "To display advertisements.",
+      "To provide extra seating.",
+      "To prevent viewing games from outside the park."
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "question": "When was the first official international game played?",
+    "correct_answer": "1872",
+    "incorrect_answers": ["1880", "1863", "1865", "1872"]
+  }
+]

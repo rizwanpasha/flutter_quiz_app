@@ -1,0 +1,412 @@
+[
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "According to the BBPA, what is the most common pub name in the UK?",
+    "correct_answer": "Red Lion",
+    "incorrect_answers": ["Royal Oak", "White Hart", "King's Head", "Red Lion"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Where is the train station 'Llanfair-pwllgwyngyll-gogery-chwyrn-drobwll-llan-tysilio-gogo-goch'?",
+    "correct_answer": "Wales",
+    "incorrect_answers": ["Moldova", "Czech Republic", "Denmark", "Wales"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Which company did Valve cooperate with in the creation of the Vive?",
+    "correct_answer": "HTC",
+    "incorrect_answers": ["Oculus", "Google", "Razer", "HTC"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What is the most common surname Wales?",
+    "correct_answer": "Jones",
+    "incorrect_answers": ["Williams", "Davies", "Evans", "Jones"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What is the defining characteristic of someone who is described as hirsute?",
+    "correct_answer": "Hairy",
+    "incorrect_answers": ["Rude", "Funny", "Tall", "Hairy"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What does a funambulist walk on?",
+    "correct_answer": "A Tight Rope",
+    "incorrect_answers": ["Broken Glass", "Balls", "The Moon", "A Tight Rope"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "In past times, what would a gentleman keep in his fob pocket?",
+    "correct_answer": "Watch",
+    "incorrect_answers": ["Money", "Keys", "Notebook", "Watch"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What is the airspeed velocity of an unladen swallow?",
+    "correct_answer": "24 MPH",
+    "incorrect_answers": ["15 MPH", "20 MPH", "200 MPH", "24 MPH"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Scotch whisky and Drambuie make up which cocktail?",
+    "correct_answer": "Rusty Nail",
+    "incorrect_answers": [
+      "Screwdriver",
+      "Sex on the Beach",
+      "Manhattan",
+      "Rusty Nail"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "In the Morse code, which letter is indicated by 3 dots? ",
+    "correct_answer": "S",
+    "incorrect_answers": ["O", "A", "C", "S"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What word represents the letter 'T' in the NATO phonetic alphabet?",
+    "correct_answer": "Tango",
+    "incorrect_answers": ["Target", "Taxi", "Turkey", "Tango"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What alcoholic drink is made from molasses?",
+    "correct_answer": "Rum",
+    "incorrect_answers": ["Gin", "Vodka", "Whisky", "Rum"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What does the 'G' mean in 'G-Man'?",
+    "correct_answer": "Government",
+    "incorrect_answers": ["Going", "Ghost", "Geronimo", "Government"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Which language is NOT Indo-European?",
+    "correct_answer": "Hungarian",
+    "incorrect_answers": ["Russian", "Greek", "Latvian", "Hungarian"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What geometric shape is generally used for stop signs?",
+    "correct_answer": "Octagon",
+    "incorrect_answers": ["Hexagon", "Circle", "Triangle", "Octagon"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What type of animal was Harambe, who was shot after a child fell into it's enclosure at the Cincinnati Zoo?",
+    "correct_answer": "Gorilla",
+    "incorrect_answers": ["Tiger", "Panda", "Crocodile", "Gorilla"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What year was Queen Elizabeth II born?",
+    "correct_answer": "1926",
+    "incorrect_answers": ["1923", "1929", "1930", "1926"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What alcoholic drink is mainly made from juniper berries?",
+    "correct_answer": "Gin",
+    "incorrect_answers": ["Vodka", "Rum", "Tequila", "Gin"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+    "correct_answer": "OCBC",
+    "incorrect_answers": ["HSBC", "Standard Chartered", "Bank of China", "OCBC"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What is the Spanish word for 'donkey'?",
+    "correct_answer": "Burro",
+    "incorrect_answers": ["Caballo", "Toro", "Perro", "Burro"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What is the name of the popular animatronic singing fish prop, singing such hits such as 'Don't Worry, Be Happy'?",
+    "correct_answer": "Big Mouth Billy Bass",
+    "incorrect_answers": [
+      "Big Billy Bass",
+      "Singing Fish",
+      "Sardeen",
+      "Big Mouth Billy Bass"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "The Swedish word 'Grunka' means what in English?",
+    "correct_answer": "Thing",
+    "incorrect_answers": ["People", "Place", "Pineapple", "Thing"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "question": "'Ananas' is mostly used as the word for Pineapple in other languages.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False", "True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "question": "The average woman is 5 inches / 13 centimeters shorter than the average man.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False", "True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "question": "The color orange is named after the fruit.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False", "True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "question": "On average, at least 1 person is killed by a drunk driver in the United States every hour.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False", "True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "question": "Kissing someone for one minute burns about 2 calories.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False", "True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What character was once considered to be the 27th letter of the alphabet?",
+    "correct_answer": "Ampersand",
+    "incorrect_answers": ["Interrobang", "Tilde", "Pilcrow", "Ampersand"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "When was Nintendo founded?",
+    "correct_answer": "September 23rd, 1889",
+    "incorrect_answers": [
+      "October 19th, 1891",
+      "March 4th, 1887",
+      "December 27th, 1894",
+      "September 23rd, 1889"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "question": "The Lego Group was founded in 1932.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False", "True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "question": "One of Donald Trump's 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False", "True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Amsterdam Centraal station is twinned with what station?",
+    "correct_answer": "London Liverpool Street",
+    "incorrect_answers": [
+      "Frankfurt (Main) Hauptbahnhof",
+      "Paris Gare du Nord",
+      "Brussels Midi",
+      "London Liverpool Street"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+    "correct_answer": "Center Parcs",
+    "incorrect_answers": [
+      "Yelloh Village",
+      "Keycamp",
+      "Villa Plus",
+      "Center Parcs"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What year was Apple Inc. founded?",
+    "correct_answer": "1976",
+    "incorrect_answers": ["1978", "1980", "1974", "1976"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "In what year was McDonald's founded?",
+    "correct_answer": "1955",
+    "incorrect_answers": ["1964", "1951", "1947", "1955"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What year was the RoboSapien toy robot released?",
+    "correct_answer": "2004",
+    "incorrect_answers": ["2000", "2001", "2006", "2004"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Which product did Nokia, the telecommunications company, originally sell?",
+    "correct_answer": "Paper",
+    "incorrect_answers": ["Phones", "Computers", "Processors", "Paper"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Who invented Pastafarianism?",
+    "correct_answer": "Bobby Henderson",
+    "incorrect_answers": [
+      "Eric Tignor",
+      "Bill Nye",
+      "Zach Soldi",
+      "Bobby Henderson"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Virtual reality company Oculus VR lost which of it's co-founders in a freak car accident in 2013?",
+    "correct_answer": "Andrew Scott Reisse",
+    "incorrect_answers": [
+      "Nate Mitchell",
+      "Jack McCauley",
+      "Palmer Luckey",
+      "Andrew Scott Reisse"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+    "correct_answer": "Hewlett-Packard",
+    "incorrect_answers": ["Toshiba", "Asus", "Dell", "Hewlett-Packard"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "question": "Spoon theory is a theory, utilizing 'Spoons' as a metaphor for energy they can use in a day.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False", "True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "If someone said 'you are olid', what would they mean?",
+    "correct_answer": "You smell extremely unpleasant.",
+    "incorrect_answers": [
+      "You are out of shape/weak.",
+      "Your appearance is repulsive.",
+      "You are incomprehensible/an idiot.",
+      "You smell extremely unpleasant."
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "What company developed the vocaloid Hatsune Miku?",
+    "correct_answer": "Crypton Future Media",
+    "incorrect_answers": [
+      "Sega",
+      "Sony",
+      "Yamaha Corporation",
+      "Crypton Future Media"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "In Guild Wars 2, what is the name of the legendary rainbow staff surrounded by an ever glowing rainbow aura?",
+    "correct_answer": "The Bifrost",
+    "incorrect_answers": ["Bolt", "Kudzu", "The Moot", "The Bifrost"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Chartreuse is a color between yellow and what?",
+    "correct_answer": "Green",
+    "incorrect_answers": ["Red", "Black", "Purple", "Green"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Which of these words means 'idle spectator'?",
+    "correct_answer": "Gongoozler",
+    "incorrect_answers": [
+      "Gossypiboma",
+      "Jentacular",
+      "Meupareunia",
+      "Gongoozler"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Which country drives on the left side of the road?",
+    "correct_answer": "Japan",
+    "incorrect_answers": ["Germany", "Russia", "China", "Japan"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Which company's original slogan was 'Don't be evil'?",
+    "correct_answer": "Google",
+    "incorrect_answers": ["Apple", "Yahoo", "Microsoft", "Google"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Nephelococcygia is the practice of doing what?",
+    "correct_answer": "Finding shapes in clouds",
+    "incorrect_answers": [
+      "Sleeping with your eyes open",
+      "Breaking glass with your voice",
+      "Swimming in freezing water",
+      "Finding shapes in clouds"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "question": "Where is Apple Inc. headquartered?",
+    "correct_answer": "Cupertino, California",
+    "incorrect_answers": [
+      "Redwood City, California",
+      "Redmond, Washington",
+      "Santa Monica, CA",
+      "Cupertino, California"
+    ]
+  }
+]
