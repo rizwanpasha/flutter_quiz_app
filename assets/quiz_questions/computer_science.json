@@ -1,427 +1,335 @@
-[
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "The Harvard architecture for micro-controllers added which additional bus?",
-    "correct_answer": "Instruction",
-    "incorrect_answers": ["Address", "Data", "Control", "Instruction"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
-    "correct_answer": "Apple",
-    "incorrect_answers": ["Microsoft", "Atari", "Commodore", "Apple"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "What does CPU stand for?",
-    "correct_answer": "Central Processing Unit",
-    "incorrect_answers": [
-      "Central Process Unit",
-      "Computer Personal Unit",
-      "Central Processor Unit",
-      "Central Processing Unit"
-    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "FLAC stands for 'Free Lossless Audio Condenser''",
-    "correct_answer": "False",
-    "incorrect_answers": ["True", "False"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "The very first recorded computer 'bug' was a moth found inside a Harvard Mark II computer.",
-    "correct_answer": "True",
-    "incorrect_answers": ["False", "True"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "All program codes have to be compiled into an executable file in order to be run. This file can then be executed on any machine.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True", "False"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
-    "correct_answer": "Motherboard",
-    "incorrect_answers": [
-      "Central Processing Unit",
-      "Hard Disk Drive",
-      "Random Access Memory",
-      "Motherboard"
-    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "Linus Torvalds created Linux and Git.",
-    "correct_answer": "True",
-    "incorrect_answers": ["False", "True"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?",
-    "correct_answer": "Final",
-    "incorrect_answers": ["Static", "Private", "Public", "Final"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "What does the Prt Sc button do?",
-    "correct_answer": "Captures what's on the screen and copies it to your clipboard",
-    "incorrect_answers": [
-      "Nothing",
-      "Saves a .png file of what's on the screen in your screenshots folder in photos",
-      "Closes all windows",
-      "Captures what's on the screen and copies it to your clipboard"
-    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "Pointers were not used in the original C programming language; they were added later on in C++.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True", "False"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
-    "correct_answer": "Inkscape",
-    "incorrect_answers": ["Paint.NET", "GIMP", "Adobe Photoshop", "Inkscape"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
-    "correct_answer": "Taiwan",
-    "incorrect_answers": [
-      "United States",
-      "Germany",
-      "China (People's Republic of)",
-      "Taiwan"
-    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "What is the most preferred image format used for logos in the Wikimedia database?",
-    "correct_answer": ".svg",
-    "incorrect_answers": [".png", ".jpeg", ".gif", ".svg"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "What did the name of the Tor Anonymity Network orignially stand for?",
-    "correct_answer": "The Onion Router",
-    "incorrect_answers": [
-      "The Only Router",
-      "The Orange Router",
-      "The Ominous Router",
-      "The Onion Router"
-    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "What was the first commerically available computer processor?",
-    "correct_answer": "Intel 4004",
-    "incorrect_answers": ["Intel 486SX", "TMS 1000", "AMD AM386", "Intel 4004"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "In web design, what does CSS stand for?",
-    "correct_answer": "Cascading Style Sheet",
-    "incorrect_answers": [
-      "Counter Strike: Source",
-      "Corrective Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
-    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "To bypass US Munitions Export Laws, the creator of the PGP published all the source code in book form. ",
-    "correct_answer": "True",
-    "incorrect_answers": ["False", "True"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "On which day did the World Wide Web go online?",
-    "correct_answer": "December 20, 1990",
-    "incorrect_answers": [
-      "December 17, 1996",
-      "November 12, 1990",
-      "November 24, 1995",
-      "December 20, 1990"
-    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "What is the code name for the mobile operating system Android 7.0?",
-    "correct_answer": "Nougat",
-    "incorrect_answers": [
-      "Ice Cream Sandwich",
-      "Jelly Bean",
-      "Marshmallow",
-      "Nougat"
-    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "RAM stands for Random Access Memory.",
-    "correct_answer": "True",
-    "incorrect_answers": ["False", "True"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
-    "correct_answer": "Micronesia",
-    "incorrect_answers": ["Fiji", "Tuvalu", "Marshall Islands", "Micronesia"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "What does the acronym CDN stand for in terms of networking?",
-    "correct_answer": "Content Delivery Network",
-    "incorrect_answers": [
-      "Content Distribution Network",
-      "Computational Data Network",
-      "Compressed Data Network",
-      "Content Delivery Network"
-    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "Ada Lovelace is often considered the first computer programmer.",
-    "correct_answer": "True",
-    "incorrect_answers": ["False", "True"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "MacOS is based on Linux.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True", "False"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "How many cores does the Intel i7-6950X have?",
-    "correct_answer": "10",
-    "incorrect_answers": ["12", "8", "4", "10"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "The open source program Redis is a relational database server.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True", "False"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "In CSS, which of these values CANNOT be used with the 'position' property?",
-    "correct_answer": "center",
-    "incorrect_answers": ["static", "absolute", "relative", "center"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
-    "correct_answer": "Heartbleed",
-    "incorrect_answers": [
-      "Shellshock",
-      "Corrupted Blood",
-      "Shellscript",
-      "Heartbleed"
-    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "In 'Hexadecimal', what color would be displayed from the color code? '#00FF00'?",
-    "correct_answer": "Green",
-    "incorrect_answers": ["Red", "Blue", "Yellow", "Green"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?",
-    "correct_answer": "Heat Sink",
-    "incorrect_answers": [
-      "CPU Vent",
-      "Temperature Decipator",
-      "Heat Vent",
-      "Heat Sink"
-    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "In most programming languages, the operator ++ is equivalent to the statement '+= 1'.",
-    "correct_answer": "True",
-    "incorrect_answers": ["False", "True"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
-    "correct_answer": "?:",
-    "incorrect_answers": ["??", "if then", "?", "?:"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "The IBM PC used an Intel 8008 microprocessor clocked at 4.77 MHz and 8 kilobytes of memory.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True", "False"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "Early RAM was directly seated onto the motherboard and could not be easily removed.",
-    "correct_answer": "True",
-    "incorrect_answers": ["False", "True"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "Time on Computers is measured via the EPOX System.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True", "False"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "What does LTS stand for in the software market?",
-    "correct_answer": "Long Term Support",
-    "incorrect_answers": [
-      "Long Taco Service",
-      "Ludicrous Transfer Speed",
-      "Ludicrous Turbo Speed",
-      "Long Term Support"
-    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "The first dual-core CPU was the Intel Pentium D.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True", "False"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "Which operating system was released first?",
-    "correct_answer": "Mac OS",
-    "incorrect_answers": ["Windows", "Linux", "OS/2", "Mac OS"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": ".rs is the top-level domain for what country?",
-    "correct_answer": "Serbia",
-    "incorrect_answers": ["Romania", "Russia", "Rwanda", "Serbia"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "Which data structure does FILO apply to?",
-    "correct_answer": "Stack",
-    "incorrect_answers": ["Queue", "Heap", "Tree", "Stack"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "What is the name of the process that sends one quibit of information using two bits of classical information?",
-    "correct_answer": "Quantum Teleportation",
-    "incorrect_answers": [
-      "Super Dense Coding",
-      "Quantum Entanglement",
-      "Quantum Programming",
-      "Quantum Teleportation"
-    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "What internet protocol was documented in RFC 1459?",
-    "correct_answer": "IRC",
-    "incorrect_answers": ["HTTP", "HTTPS", "FTP", "IRC"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "What was the first Android version specifically optimized for tablets?",
-    "correct_answer": "Honeycomb",
-    "incorrect_answers": ["Eclair", "Froyo", "Marshmellow", "Honeycomb"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "Which of these people was NOT a founder of Apple Inc?",
-    "correct_answer": "Jonathan Ive",
-    "incorrect_answers": [
-      "Steve Jobs",
-      "Ronald Wayne",
-      "Steve Wozniak",
-      "Jonathan Ive"
-    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "What was the first company to use the term 'Golden Master'?",
-    "correct_answer": "Apple",
-    "incorrect_answers": ["IBM", "Microsoft", "Google", "Apple"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "How many values can a single byte represent?",
-    "correct_answer": "256",
-    "incorrect_answers": ["8", "1", "1024", "256"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "question": "Linus Sebastian is the creator of the Linux kernel, which went on to be used in Linux, Android, and Chrome OS.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True", "False"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "The name of technology company HP stands for what?",
-    "correct_answer": "Hewlett-Packard",
-    "incorrect_answers": [
-      "Howard Packmann",
-      "Husker-Pollosk",
-      "Hellman-Pohl",
-      "Hewlett-Packard"
-    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "question": "Approximately how many Apple I personal computers were created?",
-    "correct_answer": "200",
-    "incorrect_answers": ["100", "500", "1000", "200"]
-  }
-]
+{
+  "category": "Computer Science",
+  "questions": [
+    {
+      "question": "The Harvard architecture for micro-controllers added which additional bus?",
+      "correct_answer": "Instruction",
+      "incorrect_answers": ["Address", "Data", "Control", "Instruction"]
+    },
+    {
+      "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+      "correct_answer": "Apple",
+      "incorrect_answers": ["Microsoft", "Atari", "Commodore", "Apple"]
+    },
+    {
+      "question": "What does CPU stand for?",
+      "correct_answer": "Central Processing Unit",
+      "incorrect_answers": [
+        "Central Process Unit",
+        "Computer Personal Unit",
+        "Central Processor Unit",
+        "Central Processing Unit"
+      ]
+    },
+    {
+      "question": "FLAC stands for 'Free Lossless Audio Condenser''",
+      "correct_answer": "False",
+      "incorrect_answers": ["True", "False"]
+    },
+    {
+      "question": "The very first recorded computer 'bug' was a moth found inside a Harvard Mark II computer.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False", "True"]
+    },
+    {
+      "question": "All program codes have to be compiled into an executable file in order to be run. This file can then be executed on any machine.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True", "False"]
+    },
+    {
+      "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+      "correct_answer": "Motherboard",
+      "incorrect_answers": [
+        "Central Processing Unit",
+        "Hard Disk Drive",
+        "Random Access Memory",
+        "Motherboard"
+      ]
+    },
+    {
+      "question": "Linus Torvalds created Linux and Git.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False", "True"]
+    },
+    {
+      "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?",
+      "correct_answer": "Final",
+      "incorrect_answers": ["Static", "Private", "Public", "Final"]
+    },
+    {
+      "question": "What does the Prt Sc button do?",
+      "correct_answer": "Captures what's on the screen and copies it to your clipboard",
+      "incorrect_answers": [
+        "Nothing",
+        "Saves a .png file of what's on the screen in your screenshots folder in photos",
+        "Closes all windows",
+        "Captures what's on the screen and copies it to your clipboard"
+      ]
+    },
+    {
+      "question": "Pointers were not used in the original C programming language; they were added later on in C++.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True", "False"]
+    },
+    {
+      "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+      "correct_answer": "Inkscape",
+      "incorrect_answers": ["Paint.NET", "GIMP", "Adobe Photoshop", "Inkscape"]
+    },
+    {
+      "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+      "correct_answer": "Taiwan",
+      "incorrect_answers": [
+        "United States",
+        "Germany",
+        "China (People's Republic of)",
+        "Taiwan"
+      ]
+    },
+    {
+      "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+      "correct_answer": ".svg",
+      "incorrect_answers": [".png", ".jpeg", ".gif", ".svg"]
+    },
+    {
+      "question": "What did the name of the Tor Anonymity Network orignially stand for?",
+      "correct_answer": "The Onion Router",
+      "incorrect_answers": [
+        "The Only Router",
+        "The Orange Router",
+        "The Ominous Router",
+        "The Onion Router"
+      ]
+    },
+    {
+      "question": "What was the first commerically available computer processor?",
+      "correct_answer": "Intel 4004",
+      "incorrect_answers": [
+        "Intel 486SX",
+        "TMS 1000",
+        "AMD AM386",
+        "Intel 4004"
+      ]
+    },
+    {
+      "question": "In web design, what does CSS stand for?",
+      "correct_answer": "Cascading Style Sheet",
+      "incorrect_answers": [
+        "Counter Strike: Source",
+        "Corrective Style Sheet",
+        "Computer Style Sheet",
+        "Cascading Style Sheet"
+      ]
+    },
+    {
+      "question": "To bypass US Munitions Export Laws, the creator of the PGP published all the source code in book form. ",
+      "correct_answer": "True",
+      "incorrect_answers": ["False", "True"]
+    },
+    {
+      "question": "On which day did the World Wide Web go online?",
+      "correct_answer": "December 20, 1990",
+      "incorrect_answers": [
+        "December 17, 1996",
+        "November 12, 1990",
+        "November 24, 1995",
+        "December 20, 1990"
+      ]
+    },
+    {
+      "question": "What is the code name for the mobile operating system Android 7.0?",
+      "correct_answer": "Nougat",
+      "incorrect_answers": [
+        "Ice Cream Sandwich",
+        "Jelly Bean",
+        "Marshmallow",
+        "Nougat"
+      ]
+    },
+    {
+      "question": "RAM stands for Random Access Memory.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False", "True"]
+    },
+    {
+      "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+      "correct_answer": "Micronesia",
+      "incorrect_answers": ["Fiji", "Tuvalu", "Marshall Islands", "Micronesia"]
+    },
+    {
+      "question": "What does the acronym CDN stand for in terms of networking?",
+      "correct_answer": "Content Delivery Network",
+      "incorrect_answers": [
+        "Content Distribution Network",
+        "Computational Data Network",
+        "Compressed Data Network",
+        "Content Delivery Network"
+      ]
+    },
+    {
+      "question": "Ada Lovelace is often considered the first computer programmer.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False", "True"]
+    },
+    {
+      "question": "MacOS is based on Linux.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True", "False"]
+    },
+    {
+      "question": "How many cores does the Intel i7-6950X have?",
+      "correct_answer": "10",
+      "incorrect_answers": ["12", "8", "4", "10"]
+    },
+    {
+      "question": "The open source program Redis is a relational database server.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True", "False"]
+    },
+    {
+      "question": "In CSS, which of these values CANNOT be used with the 'position' property?",
+      "correct_answer": "center",
+      "incorrect_answers": ["static", "absolute", "relative", "center"]
+    },
+    {
+      "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+      "correct_answer": "Heartbleed",
+      "incorrect_answers": [
+        "Shellshock",
+        "Corrupted Blood",
+        "Shellscript",
+        "Heartbleed"
+      ]
+    },
+    {
+      "question": "In 'Hexadecimal', what color would be displayed from the color code? '#00FF00'?",
+      "correct_answer": "Green",
+      "incorrect_answers": ["Red", "Blue", "Yellow", "Green"]
+    },
+    {
+      "question": "What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?",
+      "correct_answer": "Heat Sink",
+      "incorrect_answers": [
+        "CPU Vent",
+        "Temperature Decipator",
+        "Heat Vent",
+        "Heat Sink"
+      ]
+    },
+    {
+      "question": "In most programming languages, the operator ++ is equivalent to the statement '+= 1'.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False", "True"]
+    },
+    {
+      "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+      "correct_answer": "?:",
+      "incorrect_answers": ["??", "if then", "?", "?:"]
+    },
+    {
+      "question": "The IBM PC used an Intel 8008 microprocessor clocked at 4.77 MHz and 8 kilobytes of memory.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True", "False"]
+    },
+    {
+      "question": "Early RAM was directly seated onto the motherboard and could not be easily removed.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False", "True"]
+    },
+    {
+      "question": "Time on Computers is measured via the EPOX System.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True", "False"]
+    },
+    {
+      "question": "What does LTS stand for in the software market?",
+      "correct_answer": "Long Term Support",
+      "incorrect_answers": [
+        "Long Taco Service",
+        "Ludicrous Transfer Speed",
+        "Ludicrous Turbo Speed",
+        "Long Term Support"
+      ]
+    },
+    {
+      "question": "The first dual-core CPU was the Intel Pentium D.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True", "False"]
+    },
+    {
+      "question": "Which operating system was released first?",
+      "correct_answer": "Mac OS",
+      "incorrect_answers": ["Windows", "Linux", "OS/2", "Mac OS"]
+    },
+    {
+      "question": ".rs is the top-level domain for what country?",
+      "correct_answer": "Serbia",
+      "incorrect_answers": ["Romania", "Russia", "Rwanda", "Serbia"]
+    },
+    {
+      "question": "Which data structure does FILO apply to?",
+      "correct_answer": "Stack",
+      "incorrect_answers": ["Queue", "Heap", "Tree", "Stack"]
+    },
+    {
+      "question": "What is the name of the process that sends one quibit of information using two bits of classical information?",
+      "correct_answer": "Quantum Teleportation",
+      "incorrect_answers": [
+        "Super Dense Coding",
+        "Quantum Entanglement",
+        "Quantum Programming",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "question": "What internet protocol was documented in RFC 1459?",
+      "correct_answer": "IRC",
+      "incorrect_answers": ["HTTP", "HTTPS", "FTP", "IRC"]
+    },
+    {
+      "question": "What was the first Android version specifically optimized for tablets?",
+      "correct_answer": "Honeycomb",
+      "incorrect_answers": ["Eclair", "Froyo", "Marshmellow", "Honeycomb"]
+    },
+    {
+      "question": "Which of these people was NOT a founder of Apple Inc?",
+      "correct_answer": "Jonathan Ive",
+      "incorrect_answers": [
+        "Steve Jobs",
+        "Ronald Wayne",
+        "Steve Wozniak",
+        "Jonathan Ive"
+      ]
+    },
+    {
+      "question": "What was the first company to use the term 'Golden Master'?",
+      "correct_answer": "Apple",
+      "incorrect_answers": ["IBM", "Microsoft", "Google", "Apple"]
+    },
+    {
+      "question": "How many values can a single byte represent?",
+      "correct_answer": "256",
+      "incorrect_answers": ["8", "1", "1024", "256"]
+    },
+    {
+      "question": "Linus Sebastian is the creator of the Linux kernel, which went on to be used in Linux, Android, and Chrome OS.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True", "False"]
+    },
+    {
+      "question": "The name of technology company HP stands for what?",
+      "correct_answer": "Hewlett-Packard",
+      "incorrect_answers": [
+        "Howard Packmann",
+        "Husker-Pollosk",
+        "Hellman-Pohl",
+        "Hewlett-Packard"
+      ]
+    },
+    {
+      "question": "Approximately how many Apple I personal computers were created?",
+      "correct_answer": "200",
+      "incorrect_answers": ["100", "500", "1000", "200"]
+    }
+  ]
+}

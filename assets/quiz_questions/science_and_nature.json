@@ -1,402 +1,310 @@
-[
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Which of the following bones is not in the leg?",
-    "correct_answer": "Radius",
-    "incorrect_answers": ["Patella", "Tibia", "Fibula ", "Radius"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "boolean",
-    "question": "Igneous rocks are formed by excessive heat and pressure.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True", "False"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Which of the following liquids is least viscous? Assume temperature is 25 degree celsius.",
-    "correct_answer": "Acetone",
-    "incorrect_answers": ["Water", "Mercury", "Benzene", "Acetone"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Which of these bones is hardest to break?",
-    "correct_answer": "Femur",
-    "incorrect_answers": ["Cranium", "Humerus", "Tibia", "Femur"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "What does the letter 'S' stand for in 'NASA'?",
-    "correct_answer": "Space",
-    "incorrect_answers": ["Science", "Society", "Star", "Space"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Which element has the chemical symbol 'Fe'?",
-    "correct_answer": "Iron",
-    "incorrect_answers": ["Gold", "Silver", "Tin", "Iron"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
-    "correct_answer": "Uranus",
-    "incorrect_answers": ["Jupiter", "Venus", "Neptune", "Uranus"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "The humerus, paired radius, and ulna come together to form what joint?",
-    "correct_answer": "Elbow",
-    "incorrect_answers": ["Knee", "Sholder", "Ankle", "Elbow"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
-    "correct_answer": "Carbon",
-    "incorrect_answers": ["Nitrogen", "Oxygen", "Hydrogen", "Carbon"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "What is the elemental symbol for mercury?",
-    "correct_answer": "Hg",
-    "incorrect_answers": ["Me", "Mc", "Hy", "Hg"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "The 'Islets of Langerhans' is found in which human organ?",
-    "correct_answer": "Pancreas",
-    "incorrect_answers": ["Kidney", "Liver", "Brain", "Pancreas"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "boolean",
-    "question": "You can calculate Gravitational force using this formula F = G*((m1 * m2) / r^2)",
-    "correct_answer": "True",
-    "incorrect_answers": ["False", "True"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "boolean",
-    "question": "The planet Mars has two moons orbiting it.",
-    "correct_answer": "True",
-    "incorrect_answers": ["False", "True"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "What was the first living creature in space?",
-    "correct_answer": "Fruit Flies ",
-    "incorrect_answers": ["Monkey", "Dog", "Mouse", "Fruit Flies "]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "What mineral has the lowest number on the Mohs scale?",
-    "correct_answer": "Talc",
-    "incorrect_answers": ["Quartz", "Diamond", "Gypsum", "Talc"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Gannymede is the largest moon of which planet?",
-    "correct_answer": "Jupiter",
-    "incorrect_answers": ["Uranus", "Neptune", "Mars", "Jupiter"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Which gas forms about 78% of the Earth's atmosphere?",
-    "correct_answer": "Nitrogen",
-    "incorrect_answers": ["Oxygen", "Argon", "Carbon Dioxide", "Nitrogen"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "How many degrees Fahrenheit is 100 degrees Celsius? ",
-    "correct_answer": "212",
-    "incorrect_answers": ["326", "100", "451", "212"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Which chemical element has the lowest boiling point?",
-    "correct_answer": "Helium",
-    "incorrect_answers": ["Hydrogen", "Neon", "Nitrogen", "Helium"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "What is the powerhouse of the cell?",
-    "correct_answer": "Mitochondria",
-    "incorrect_answers": ["Ribosome", "Redbull", "Nucleus", "Mitochondria"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
-    "correct_answer": "Beryllium",
-    "incorrect_answers": ["Gallium", "Caesium", "Mercury", "Beryllium"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "How many officially recognized dwarf planets in the solar system are named after Polynesian deities?",
-    "correct_answer": "2",
-    "incorrect_answers": ["0", "1", "5", "2"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "boolean",
-    "question": "Shrimp can swim backwards.",
-    "correct_answer": "True",
-    "incorrect_answers": ["False", "True"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Which psychological term refers to the stress of holding contrasting beliefs?",
-    "correct_answer": "Cognitive Dissonance",
-    "incorrect_answers": [
-      "Flip-Flop Syndrome",
-      "Split-Brain",
-      "Blind Sight",
-      "Cognitive Dissonance"
-    ]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "What is the chemical makeup of water?",
-    "correct_answer": "H20",
-    "incorrect_answers": ["C12H6O2", "CO2", "H", "H20"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Which horizon in a soil profile consists of bedrock?",
-    "correct_answer": "R",
-    "incorrect_answers": ["O", "B", "D", "R"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "boolean",
-    "question": "Type 1 diabetes is a result of the liver working improperly.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True", "False"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
-    "correct_answer": "Sputnik 1",
-    "incorrect_answers": ["Soyuz 7K-OK", "Zenit-2", "Voskhod 3KV", "Sputnik 1"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "What is the chemical formula for ammonia?",
-    "correct_answer": "NH3",
-    "incorrect_answers": ["CO2", "NO3", "CH4", "NH3"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Which is not a type of neuron?",
-    "correct_answer": "Perceptual Neuron",
-    "incorrect_answers": [
-      "Sensory Neuron",
-      "Motor Neuron",
-      "Interneuron",
-      "Perceptual Neuron"
-    ]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "What polymer is used to make CDs, safety goggles and riot shields?",
-    "correct_answer": "Polycarbonate",
-    "incorrect_answers": ["Rubber", "Nylon", "Bakelite", "Polycarbonate"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Folic acid is the synthetic form of which vitamin?",
-    "correct_answer": "Vitamin B",
-    "incorrect_answers": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin B"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "What is the atomic number of the element Strontium?",
-    "correct_answer": "38",
-    "incorrect_answers": ["73", "47", "11", "38"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "boolean",
-    "question": "Salt is 100% composed of Sodium.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True", "False"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "'The Big Bang Theory' was first theorized by a priest of what religious ideology?",
-    "correct_answer": "Catholic",
-    "incorrect_answers": ["Christian", "Jewish", "Islamic", "Catholic"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "What term is best associated with Sigmund Freud?",
-    "correct_answer": "Psychoanalysis",
-    "incorrect_answers": [
-      "Cognitive-Behavioral Therapy",
-      "Theory of Gravity",
-      "Dialectical Behavior Therapy",
-      "Psychoanalysis"
-    ]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
-    "correct_answer": "Titan",
-    "incorrect_answers": ["Europa", "Miranda", "Callisto", "Titan"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "The human right lung has how many lobes?",
-    "correct_answer": "3",
-    "incorrect_answers": ["4", "2", "1", "3"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "A comet's gaseous envelope (which creates the tail) is called what?",
-    "correct_answer": "The coma",
-    "incorrect_answers": [
-      "The wake",
-      "The backwash",
-      "The ablative",
-      "The coma"
-    ]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Which is the most abundant element in the universe?",
-    "correct_answer": "Hydrogen",
-    "incorrect_answers": ["Helium", "Lithium", "Oxygen", "Hydrogen"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "In Chemistry, how many isomers does Butanol (C4H9OH) have?",
-    "correct_answer": "4",
-    "incorrect_answers": ["3", "5", "6", "4"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "What is the same in Celsius and Fahrenheit?",
-    "correct_answer": "-40",
-    "incorrect_answers": ["32", "-39", "-42", "-40"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "How much radiation does a banana emit?",
-    "correct_answer": "0.1 Microsievert",
-    "incorrect_answers": [
-      "0.3 Microsievert",
-      "0.5 Microsievert",
-      "0.7 Microsievert",
-      "0.1 Microsievert"
-    ]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "What is the unit of electrical inductance?",
-    "correct_answer": "Henry",
-    "incorrect_answers": ["Weber", "Coulomb", "Mho", "Henry"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Which desert is the only desert in the world where the 'Saguaro' cactus grows indigenously?",
-    "correct_answer": "The Sonoran Desert",
-    "incorrect_answers": [
-      "The Gobi Desert",
-      "The Yuma Desert",
-      "The Arabian Desert",
-      "The Sonoran Desert"
-    ]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Muscle fiber is constructed of bundles small long organelles called what?",
-    "correct_answer": "Myofibrils",
-    "incorrect_answers": [
-      "Epimysium",
-      "Myofiaments",
-      "Myocardium",
-      "Myofibrils"
-    ]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Where is the Gluteus Maximus muscle located?",
-    "correct_answer": "Butt",
-    "incorrect_answers": ["Arm", "Head", "Torso", "Butt"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "What is the scientific name for the extinct hominin known as 'Lucy'?",
-    "correct_answer": "Australopithecus Afarensis",
-    "incorrect_answers": [
-      "Australopithecus Africanus",
-      "Australopithecus Architeuthis",
-      "Australopithecus Antaris",
-      "Australopithecus Afarensis"
-    ]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "The Western Lowland Gorilla is scientifically know as?",
-    "correct_answer": "Gorilla Gorilla Gorilla",
-    "incorrect_answers": [
-      "Gorilla Gorilla Diehli",
-      "Gorilla Beringei Graueri",
-      "Gorilla Beringei Beringei",
-      "Gorilla Gorilla Gorilla"
-    ]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "question": "Which of the following men does not have a chemical element named after him?",
-    "correct_answer": "Sir Isaac Newton",
-    "incorrect_answers": [
-      "Albert Einstein",
-      "Niels Bohr",
-      "Enrico Fermi",
-      "Sir Isaac Newton"
-    ]
-  }
-]
+{
+  "category": "Science & Nature",
+  "questions": [
+    {
+      "question": "Which of the following bones is not in the leg?",
+      "correct_answer": "Radius",
+      "incorrect_answers": ["Patella", "Tibia", "Fibula ", "Radius"]
+    },
+    {
+      "question": "Igneous rocks are formed by excessive heat and pressure.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True", "False"]
+    },
+    {
+      "question": "Which of the following liquids is least viscous? Assume temperature is 25 degree celsius.",
+      "correct_answer": "Acetone",
+      "incorrect_answers": ["Water", "Mercury", "Benzene", "Acetone"]
+    },
+    {
+      "question": "Which of these bones is hardest to break?",
+      "correct_answer": "Femur",
+      "incorrect_answers": ["Cranium", "Humerus", "Tibia", "Femur"]
+    },
+    {
+      "question": "What does the letter 'S' stand for in 'NASA'?",
+      "correct_answer": "Space",
+      "incorrect_answers": ["Science", "Society", "Star", "Space"]
+    },
+    {
+      "question": "Which element has the chemical symbol 'Fe'?",
+      "correct_answer": "Iron",
+      "incorrect_answers": ["Gold", "Silver", "Tin", "Iron"]
+    },
+    {
+      "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+      "correct_answer": "Uranus",
+      "incorrect_answers": ["Jupiter", "Venus", "Neptune", "Uranus"]
+    },
+    {
+      "question": "The humerus, paired radius, and ulna come together to form what joint?",
+      "correct_answer": "Elbow",
+      "incorrect_answers": ["Knee", "Sholder", "Ankle", "Elbow"]
+    },
+    {
+      "question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
+      "correct_answer": "Carbon",
+      "incorrect_answers": ["Nitrogen", "Oxygen", "Hydrogen", "Carbon"]
+    },
+    {
+      "question": "What is the elemental symbol for mercury?",
+      "correct_answer": "Hg",
+      "incorrect_answers": ["Me", "Mc", "Hy", "Hg"]
+    },
+    {
+      "question": "The 'Islets of Langerhans' is found in which human organ?",
+      "correct_answer": "Pancreas",
+      "incorrect_answers": ["Kidney", "Liver", "Brain", "Pancreas"]
+    },
+    {
+      "question": "You can calculate Gravitational force using this formula F = G*((m1 * m2) / r^2)",
+      "correct_answer": "True",
+      "incorrect_answers": ["False", "True"]
+    },
+    {
+      "question": "The planet Mars has two moons orbiting it.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False", "True"]
+    },
+    {
+      "question": "What was the first living creature in space?",
+      "correct_answer": "Fruit Flies ",
+      "incorrect_answers": ["Monkey", "Dog", "Mouse", "Fruit Flies "]
+    },
+    {
+      "question": "What mineral has the lowest number on the Mohs scale?",
+      "correct_answer": "Talc",
+      "incorrect_answers": ["Quartz", "Diamond", "Gypsum", "Talc"]
+    },
+    {
+      "question": "Gannymede is the largest moon of which planet?",
+      "correct_answer": "Jupiter",
+      "incorrect_answers": ["Uranus", "Neptune", "Mars", "Jupiter"]
+    },
+    {
+      "question": "Which gas forms about 78% of the Earth's atmosphere?",
+      "correct_answer": "Nitrogen",
+      "incorrect_answers": ["Oxygen", "Argon", "Carbon Dioxide", "Nitrogen"]
+    },
+    {
+      "question": "How many degrees Fahrenheit is 100 degrees Celsius? ",
+      "correct_answer": "212",
+      "incorrect_answers": ["326", "100", "451", "212"]
+    },
+    {
+      "question": "Which chemical element has the lowest boiling point?",
+      "correct_answer": "Helium",
+      "incorrect_answers": ["Hydrogen", "Neon", "Nitrogen", "Helium"]
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "correct_answer": "Mitochondria",
+      "incorrect_answers": ["Ribosome", "Redbull", "Nucleus", "Mitochondria"]
+    },
+    {
+      "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+      "correct_answer": "Beryllium",
+      "incorrect_answers": ["Gallium", "Caesium", "Mercury", "Beryllium"]
+    },
+    {
+      "question": "How many officially recognized dwarf planets in the solar system are named after Polynesian deities?",
+      "correct_answer": "2",
+      "incorrect_answers": ["0", "1", "5", "2"]
+    },
+    {
+      "question": "Shrimp can swim backwards.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False", "True"]
+    },
+    {
+      "question": "Which psychological term refers to the stress of holding contrasting beliefs?",
+      "correct_answer": "Cognitive Dissonance",
+      "incorrect_answers": [
+        "Flip-Flop Syndrome",
+        "Split-Brain",
+        "Blind Sight",
+        "Cognitive Dissonance"
+      ]
+    },
+    {
+      "question": "What is the chemical makeup of water?",
+      "correct_answer": "H20",
+      "incorrect_answers": ["C12H6O2", "CO2", "H", "H20"]
+    },
+    {
+      "question": "Which horizon in a soil profile consists of bedrock?",
+      "correct_answer": "R",
+      "incorrect_answers": ["O", "B", "D", "R"]
+    },
+    {
+      "question": "Type 1 diabetes is a result of the liver working improperly.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True", "False"]
+    },
+    {
+      "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+      "correct_answer": "Sputnik 1",
+      "incorrect_answers": [
+        "Soyuz 7K-OK",
+        "Zenit-2",
+        "Voskhod 3KV",
+        "Sputnik 1"
+      ]
+    },
+    {
+      "question": "What is the chemical formula for ammonia?",
+      "correct_answer": "NH3",
+      "incorrect_answers": ["CO2", "NO3", "CH4", "NH3"]
+    },
+    {
+      "question": "Which is not a type of neuron?",
+      "correct_answer": "Perceptual Neuron",
+      "incorrect_answers": [
+        "Sensory Neuron",
+        "Motor Neuron",
+        "Interneuron",
+        "Perceptual Neuron"
+      ]
+    },
+    {
+      "question": "What polymer is used to make CDs, safety goggles and riot shields?",
+      "correct_answer": "Polycarbonate",
+      "incorrect_answers": ["Rubber", "Nylon", "Bakelite", "Polycarbonate"]
+    },
+    {
+      "question": "Folic acid is the synthetic form of which vitamin?",
+      "correct_answer": "Vitamin B",
+      "incorrect_answers": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin B"]
+    },
+    {
+      "question": "What is the atomic number of the element Strontium?",
+      "correct_answer": "38",
+      "incorrect_answers": ["73", "47", "11", "38"]
+    },
+    {
+      "question": "Salt is 100% composed of Sodium.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True", "False"]
+    },
+    {
+      "question": "'The Big Bang Theory' was first theorized by a priest of what religious ideology?",
+      "correct_answer": "Catholic",
+      "incorrect_answers": ["Christian", "Jewish", "Islamic", "Catholic"]
+    },
+    {
+      "question": "What term is best associated with Sigmund Freud?",
+      "correct_answer": "Psychoanalysis",
+      "incorrect_answers": [
+        "Cognitive-Behavioral Therapy",
+        "Theory of Gravity",
+        "Dialectical Behavior Therapy",
+        "Psychoanalysis"
+      ]
+    },
+    {
+      "question": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
+      "correct_answer": "Titan",
+      "incorrect_answers": ["Europa", "Miranda", "Callisto", "Titan"]
+    },
+    {
+      "question": "The human right lung has how many lobes?",
+      "correct_answer": "3",
+      "incorrect_answers": ["4", "2", "1", "3"]
+    },
+    {
+      "question": "A comet's gaseous envelope (which creates the tail) is called what?",
+      "correct_answer": "The coma",
+      "incorrect_answers": [
+        "The wake",
+        "The backwash",
+        "The ablative",
+        "The coma"
+      ]
+    },
+    {
+      "question": "Which is the most abundant element in the universe?",
+      "correct_answer": "Hydrogen",
+      "incorrect_answers": ["Helium", "Lithium", "Oxygen", "Hydrogen"]
+    },
+    {
+      "question": "In Chemistry, how many isomers does Butanol (C4H9OH) have?",
+      "correct_answer": "4",
+      "incorrect_answers": ["3", "5", "6", "4"]
+    },
+    {
+      "question": "What is the same in Celsius and Fahrenheit?",
+      "correct_answer": "-40",
+      "incorrect_answers": ["32", "-39", "-42", "-40"]
+    },
+    {
+      "question": "How much radiation does a banana emit?",
+      "correct_answer": "0.1 Microsievert",
+      "incorrect_answers": [
+        "0.3 Microsievert",
+        "0.5 Microsievert",
+        "0.7 Microsievert",
+        "0.1 Microsievert"
+      ]
+    },
+    {
+      "question": "What is the unit of electrical inductance?",
+      "correct_answer": "Henry",
+      "incorrect_answers": ["Weber", "Coulomb", "Mho", "Henry"]
+    },
+    {
+      "question": "Which desert is the only desert in the world where the 'Saguaro' cactus grows indigenously?",
+      "correct_answer": "The Sonoran Desert",
+      "incorrect_answers": [
+        "The Gobi Desert",
+        "The Yuma Desert",
+        "The Arabian Desert",
+        "The Sonoran Desert"
+      ]
+    },
+    {
+      "question": "Muscle fiber is constructed of bundles small long organelles called what?",
+      "correct_answer": "Myofibrils",
+      "incorrect_answers": [
+        "Epimysium",
+        "Myofiaments",
+        "Myocardium",
+        "Myofibrils"
+      ]
+    },
+    {
+      "question": "Where is the Gluteus Maximus muscle located?",
+      "correct_answer": "Butt",
+      "incorrect_answers": ["Arm", "Head", "Torso", "Butt"]
+    },
+    {
+      "question": "What is the scientific name for the extinct hominin known as 'Lucy'?",
+      "correct_answer": "Australopithecus Afarensis",
+      "incorrect_answers": [
+        "Australopithecus Africanus",
+        "Australopithecus Architeuthis",
+        "Australopithecus Antaris",
+        "Australopithecus Afarensis"
+      ]
+    },
+    {
+      "question": "The Western Lowland Gorilla is scientifically know as?",
+      "correct_answer": "Gorilla Gorilla Gorilla",
+      "incorrect_answers": [
+        "Gorilla Gorilla Diehli",
+        "Gorilla Beringei Graueri",
+        "Gorilla Beringei Beringei",
+        "Gorilla Gorilla Gorilla"
+      ]
+    },
+    {
+      "question": "Which of the following men does not have a chemical element named after him?",
+      "correct_answer": "Sir Isaac Newton",
+      "incorrect_answers": [
+        "Albert Einstein",
+        "Niels Bohr",
+        "Enrico Fermi",
+        "Sir Isaac Newton"
+      ]
+    }
+  ]
+}

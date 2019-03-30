@@ -1,6 +1,22 @@
 import 'package:flutter/material.dart';
+import 'package:fulutter_quiz_app/utils/quiz_service.dart';
 
-void main() => runApp(MyApp());
+void main() {
+  runApp(MyApp());
+
+  Map<String, String> quizCategories = {
+    "Animals": "animals.json",
+    "Animations": "animations.json",
+    "Computer Science": "computer_science.json",
+    "General Knowledge": "general_knowledge.json",
+    "Geography": "geography.json",
+    "History": "history.json",
+    "Science and Nature": "science_and_nature.json",
+    "Sports": "sports.json"
+  };
+
+  loadQuestions(quizCategories["Animations"]);
+}
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
