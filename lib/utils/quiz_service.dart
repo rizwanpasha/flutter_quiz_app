@@ -7,10 +7,8 @@ Future<String> _questionsAsset(String filePathToLoad) async {
   return await rootBundle.loadString("assets/quiz_questions/$filePathToLoad");
 }
 
-Future loadQuestions(String filePathToLoad) async {
+Future<Quiz> loadQuestions(String filePathToLoad) async {
   String jsonAddress = await _questionsAsset(filePathToLoad);
   final jsonResponse = json.decode(jsonAddress);
-  Quiz quiz = new Quiz.fromJson(jsonResponse);
-  print(quiz.category);
-  print(quiz.numberOfQuestions);
+  return new Quiz.fromJson(jsonResponse);
 }
