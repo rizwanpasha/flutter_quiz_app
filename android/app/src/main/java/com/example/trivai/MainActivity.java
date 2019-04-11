@@ -1,4 +1,4 @@
-package com.example.fulutter_quiz_app;
+package com.example.trivia;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

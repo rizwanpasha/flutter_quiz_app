@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:fulutter_quiz_app/utils/quiz_model.dart';
+import 'package:trivia/utils/quiz_model.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'dart:convert';
 

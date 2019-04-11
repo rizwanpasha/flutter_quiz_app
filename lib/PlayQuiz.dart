@@ -64,20 +64,15 @@ class PlayQuizState extends State<PlayQuiz> with WidgetsBindingObserver {
   PlayQuizState(this.category, this.filePath, this.categoryColor) {
     loadQuestions(filePath)
         .then((quizObject) => quiz = quizObject)
-        .then((object) => {updateQuestionState("")});
+        .then((object) => {updateQuestionState()});
   }
 
-  getNextQuestion(String answerStatus) {
-    updateQuestionState(answerStatus);
+  getNextQuestion() {
+    updateQuestionState();
   }
 
-  updateQuestionState(String answerStatus) {
+  updateQuestionState() {
     questionObject = quiz.getQuestion;
-    setState(() {
-      if (answerStatus == "correctAnswer") {
-        pointsScored += point;
-      }
-    });
 
     if (this.questionObject == null) {
       endOfQuiz();
@@ -93,7 +88,7 @@ class PlayQuizState extends State<PlayQuiz> with WidgetsBindingObserver {
     }
   }
 
-  endOfQuiz() {
+  endOfQuiz() async {
     int attemptedQuestions = (pointsScored / point).truncate();
     print("end of quiz");
 
@@ -117,7 +112,7 @@ class PlayQuizState extends State<PlayQuiz> with WidgetsBindingObserver {
       headerMessage = "master of knowledge.";
     }
 
-    showDialog(
+    await showDialog(
       context: context,
       builder: (BuildContext context) {
         // return object of type Dialog
@@ -150,6 +145,9 @@ class PlayQuizState extends State<PlayQuiz> with WidgetsBindingObserver {
           actions: <Widget>[
             RaisedButton(
                 onPressed: () {
+                  /*
+                   close the dialog box.
+                  */
                   Navigator.pop(context);
                 },
                 textColor: Colors.white,
@@ -157,7 +155,12 @@ class PlayQuizState extends State<PlayQuiz> with WidgetsBindingObserver {
           ],
         );
       },
-    );
+    ).then((value) {
+      /*
+         pop the quiz page and go to main page
+      */
+      Navigator.pop(context);
+    });
   }
 
   Future<bool> _onWillPop() {
@@ -177,7 +180,7 @@ class PlayQuizState extends State<PlayQuiz> with WidgetsBindingObserver {
                       new RaisedButton(
                         color: Colors.orange,
                         onPressed: () {
-                          Navigator.pop(context);
+                          Navigator.popUntil(context, ModalRoute.withName('/'));
                           return shouldClose = true;
                         },
                         child: new Text('Yes'),
@@ -195,10 +198,6 @@ class PlayQuizState extends State<PlayQuiz> with WidgetsBindingObserver {
                 ],
               ));
         });
-
-    if (shouldClose) {
-      Navigator.pop(context);
-    }
 
     return Future.value(shouldClose);
   }
@@ -263,12 +262,18 @@ class PlayQuizState extends State<PlayQuiz> with WidgetsBindingObserver {
                                       (incorrectAnswers[index] == correctAnswer)
                                           ? Colors.green
                                           : Colors.red,
-                                  onPressed: () {
-                                    getNextQuestion(
-                                      (incorrectAnswers[index] == correctAnswer)
-                                          ? "correctAnswer"
-                                          : "incorrectAnswer",
-                                    );
+                                  onPressed: () async {
+                                    setState(() {
+                                      if (incorrectAnswers[index] ==
+                                          correctAnswer) {
+                                        pointsScored += point;
+                                      }
+                                    });
+
+                                    await Future.delayed(
+                                        const Duration(milliseconds: 600), () {
+                                      getNextQuestion();
+                                    });
                                   },
                                   shape: RoundedRectangleBorder(
                                       side: BorderSide(
