@@ -173,7 +173,7 @@ class PlayQuizState extends State<PlayQuiz> with WidgetsBindingObserver {
               child: Column(
                 mainAxisSize: MainAxisSize.min,
                 children: <Widget>[
-                  Text("Are you sure"),
+                  Text("Are you sure."),
                   new Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: <Widget>[
@@ -245,7 +245,6 @@ class PlayQuizState extends State<PlayQuiz> with WidgetsBindingObserver {
                             style: TextStyle(fontSize: 18.0),
                           ),
                           Container(
-                            color: Colors.green,
                             alignment: AlignmentDirectional.bottomCenter,
                             height: 200.0,
                             child: ListView.builder(

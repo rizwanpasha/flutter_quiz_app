@@ -1,4 +1,4 @@
-package com.example.trivia;
+package com.rizwanpasha.developer.trivia;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

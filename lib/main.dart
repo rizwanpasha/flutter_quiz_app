@@ -80,13 +80,13 @@ class QuizCategories extends StatelessWidget {
                                 ),
                               ))),
                       Container(
-                        child: QuizStatistics(
-                            key: UniqueKey(),
-                            currentQuestionCount: 2,
-                            totalQuestionsCount: 10,
-                            points: 50,
-                            fontSize: 15.0,
-                            themeColor: categoryColor),
+                        // child: QuizStatistics(
+                        //     key: UniqueKey(),
+                        //     currentQuestionCount: 2,
+                        //     totalQuestionsCount: 10,
+                        //     points: 50,
+                        //     fontSize: 15.0,
+                        //     themeColor: categoryColor),
                       )
                     ])));
       },
